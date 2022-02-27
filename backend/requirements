@@ -1,0 +1,7 @@
+flask
+Flask-Navigation
+flask_sqlalchemy
+flask_cors
+psycopg2
+flask_script
+flask_migrate
