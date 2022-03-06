@@ -3,6 +3,8 @@
 # virtualenv
 /venv
 /_pycache_
+/db-commands.txt
+/how-to-execute
 
 
 # misc

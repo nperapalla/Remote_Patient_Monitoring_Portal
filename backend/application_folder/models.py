@@ -4,7 +4,7 @@ from flask_sqlalchemy import SQLAlchemy
 db = SQLAlchemy()
  
 class UserInfoModel(db.Model):
-    __tablename__ = 'User_table'
+    __tablename__ = 'usertable'
  
     id = db.Column(db.Integer, primary_key = True)
     name = db.Column(db.String())
